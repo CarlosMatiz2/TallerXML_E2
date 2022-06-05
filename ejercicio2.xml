@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE pedidos SYSTEM "ejercicio2.dtd">
+<pedidos>
+<!--
+<pedidos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio2.xsd">
+-->
+    <pedido>
+        <numeroSerie>1234</numeroSerie>
+        <cantidad>1</cantidad>
+        <peso>1.1</peso>
+    </pedido>
+    <pedido>
+        <numeroSerie>1235</numeroSerie>
+        <cantidad>2</cantidad>
+    </pedido>
+</pedidos>
