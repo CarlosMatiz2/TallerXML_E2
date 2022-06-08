@@ -5,7 +5,7 @@
             <xs:sequence>
                 <xs:element name="pedido" minOccurs="0" maxOccurs="unbounded">
                     <xs:complexType>
-                        <xs:sequence>
+                       <xs:sequence>
                             <xs:element name="numeroSerie" type="xs:integer"/>
                             <xs:element name="cantidad" type="xs:integer"/>
                             <xs:element name="peso" type="xs:float" minOccurs="0" maxOccurs="1"/>
